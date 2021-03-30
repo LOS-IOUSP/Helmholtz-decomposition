@@ -1,5 +1,5 @@
 # Helmholtz-decomposition
-Perform the Helmholtz decomposition in velocity fields from an OGCM using the windspharm package.
+This is an example of how to perform the Helmholtz decomposition in velocity fields from an OGCM using the windspharm package.
 
 You'll need, of course, the windspharm package! And you can see the documentation here: https://ajdawson.github.io/windspharm/latest/
 
